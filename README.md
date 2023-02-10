@@ -1,4 +1,5 @@
 ### CHOI YU JIN 😄👋
+## :mortar_board: Dong-A University Computer Engineering
 
 <!--
 **yujinchoi20/yujinchoi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
