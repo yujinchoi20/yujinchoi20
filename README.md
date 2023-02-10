@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yujin4641)](https://solved.ac/yujin4641/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinchoi20&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinchoi20&show_icons=true&theme=vue-dark)
