@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujinchoi20&count_bg=%234963AC&title_bg=%2380B5F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&text=welcome!&color=7CC49A&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yujin4641)](https://solved.ac/yujin4641/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinchoi20&show_icons=true&theme=vue-dark)
