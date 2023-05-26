@@ -7,7 +7,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=welcome!&color=7CC49A&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinchoi20&hide=prs,contribs&show_icons=true&theme=gruvbox_light#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinchoi20&hide=prs&show_icons=true&theme=gruvbox_light#gh-light-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinchoi20&layout=compact&theme=vue)
 
 </div>
