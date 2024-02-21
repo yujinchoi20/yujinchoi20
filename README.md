@@ -15,8 +15,14 @@
 <div align=center><h1>🔥 STACKS</h1></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-6FBDF0?style=for-the-badge&&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-6FBDF0?style=for-the-badge&&logo=&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-7CC49A?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> </br>
+ 
+  <img src="https://img.shields.io/badge/JDBC-8DC63F?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-21B573?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></br>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
